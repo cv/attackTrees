@@ -1,0 +1,18 @@
+path.link {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+rect.node text {
+  font: 12px;
+  font-family: "Open Sans", sans-serif;
+}
+
+rect.node {
+  cursor: pointer;
+  fill: #ffffff;
+  fill-opacity: .5;
+  stroke: #000;
+  stroke-width: 1.5px;
+}

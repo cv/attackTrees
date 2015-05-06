@@ -1,0 +1,14 @@
+{
+  "name": "Visual Attack Tree Generator",
+  "description": "Generates visual attack trees from their textual form",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "launch":{
+      "local_path":"index.html"
+    }
+  },
+  "icons": {
+    "128": "icons/icon_128.png"
+  }
+}
